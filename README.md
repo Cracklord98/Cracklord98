@@ -1,5 +1,4 @@
 # Hi there, I'm Andres Toro! 👋 
-![foto](https://github.com/user-attachments/assets/b90161c5-e723-4085-a144-448f39828fc1)
 
 ## 🚀 Industrial Engineer + Manager = Developer in the Making
 
